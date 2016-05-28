@@ -1,2 +1,2 @@
-# HibernateExamples
+# Hibernate Examples
 Hibernate framework examples
